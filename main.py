@@ -68,5 +68,5 @@ def main():
     fileLongestDescription(file)
     fileLargestNumberOfWordsAbilities(file)
 
-
-main()
+if __name__ == '__main__':
+    main()
